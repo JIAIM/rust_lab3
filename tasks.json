@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Футбол",
+        "description": "12:00 - Стадіон",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Покупки",
+        "description": "15:00 - Магазин",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Вивчення Rust",
+        "description": "17:00 - Онлайн курс",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Прогулянка з собакою",
+        "description": "18:00 - Парк",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Зустріч з друзями",
+        "description": "20:00 - Кафе",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "title": "Читання книги",
+        "description": "21:00 - Дім",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "title": "Робота над проєктом",
+        "description": "10:00 - Офіс",
+        "completed": false
+    }
+]
